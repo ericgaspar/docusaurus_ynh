@@ -49,7 +49,7 @@ ynh_config_add_nginx
 
 ynh_config_add_systemd
 
-yunohost service add "$app" --description="Documentation tool for creativity" --log="/var/log/$app/$app.log"
+yunohost service add "$app" --description="Build optimized websites quickly" --log="/var/log/$app/$app.log"
 
 #=================================================
 # START SYSTEMD SERVICE

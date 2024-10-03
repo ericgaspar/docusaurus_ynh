@@ -1,1 +1,1 @@
-Conçu pour documenter et créer des récits à partir d'activités pratiques, do•doc (prononcer doudoc) est un outil composite, libre et modulaire, qui permet de capturer des médias (photos, vidéos, sons et stop-motion), de les éditer, de les mettre en page et de les publier. Son aspect composite permet de le reconfigurer de manière à ce qu'il soit le plus adapté possible à la situation dans laquelle il est déployé.
+Docusaurus est un projet permettant de créer, de déployer et de maintenir facilement des sites Web de projets open source.
