@@ -12,7 +12,7 @@ version = "3.5~ynh1"
 maintainers = ["eric_G"]
 
 [upstream]
-license = "AGPL-3.0-only"
+license = "MIT"
 website = "https://docusaurus.io/"
 demo = "https://docusaurus.io/docs/playground"
 admindoc = "https://docusaurus.io/docs"
@@ -49,7 +49,7 @@ ram.runtime = "512M"
     url = "https://github.com/facebook/docusaurus/archive/refs/tags/v3.5.2.tar.gz"
     sha256 = "99d09a3bbcdd4328eea3f4a908470dfe1526515441492a8d4c9a9d9fad51ba20"
 
-    #autoupdate.strategy = "latest_github_tag"
+    autoupdate.strategy = "latest_github_tag"
 
     [resources.system_user]
 
